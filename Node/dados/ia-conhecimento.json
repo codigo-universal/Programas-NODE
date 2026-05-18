@@ -1,0 +1,81 @@
+{
+  "saudacoes": {
+    "palavras": [
+      "oi",
+      "olá",
+      "opa",
+      "eae",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "hello",
+      "hi"
+    ],
+    "respostas": [
+      "Olá! Como posso ajudar você hoje? 😊",
+      "Oi! Tudo bem? O que você precisa?",
+      "Olá! Sou sua IA assistente. Pergunte algo!"
+    ]
+  },
+  "despedidas": {
+    "palavras": [
+      "tchau",
+      "adeus",
+      "até logo",
+      "até mais",
+      "flw",
+      "bye"
+    ],
+    "respostas": [
+      "Até logo! Foi um prazer conversar! 👋",
+      "Tchau! Volte sempre que precisar!"
+    ]
+  },
+  "nome": {
+    "palavras": [
+      "qual seu nome",
+      "quem é você",
+      "como se chama",
+      "seu nome"
+    ],
+    "respostas": [
+      "Sou uma IA que aprende! Meu nome é LearnIA 🤖",
+      "Sou a LearnIA - uma inteligência artificial que aprende com você!"
+    ]
+  },
+  "nodejs": {
+    "palavras": [
+      "node",
+      "node.js",
+      "nodejs",
+      "javascript"
+    ],
+    "respostas": [
+      "Node.js é incrível! Estou sendo executado nele agora! 🚀",
+      "JavaScript no servidor! Poderoso demais!"
+    ]
+  },
+  "aprendizado_1778586255735": {
+    "palavras": [
+      "amor?"
+    ],
+    "respostas": [
+      "O que é Amor"
+    ],
+    "aprendido": true,
+    "data": "12/05/2026 08:44:15",
+    "perguntaOriginal": "O que é amor?"
+  },
+  "aprendizado_1778586343678": {
+    "palavras": [
+      "amor",
+      "energia"
+    ],
+    "respostas": [
+      "Amor é uma energia"
+    ],
+    "aprendido": true,
+    "data": "12/05/2026 08:45:43",
+    "perguntaOriginal": "Amor é uma energia"
+  }
+}

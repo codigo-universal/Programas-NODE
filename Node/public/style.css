@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 50px;
+}
+.container {
+    background: rgba(255,255,255,0.1);
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+a {
+    color: #ffd700;
+    text-decoration: none;
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nome": "Conversor",
+    "arquivo": "conversor.js",
+    "descricao": "Converta imagens JPG para PDF",
+    "icone": "🖼️",
+    "categoria": "Utilidades",
+    "porta": 3001
+  },
+  {
+    "id": 2,
+    "nome": "Relógio",
+    "arquivo": "relogio.js",
+    "descricao": "Relógio digital em tempo real",
+    "icone": "⏰",
+    "categoria": "Utilidades",
+    "porta": 3002
+  },
+  {
+    "id": 3,
+    "nome": "Contador",
+    "arquivo": "contador.js",
+    "descricao": "Contador de visitas",
+    "icone": "🔢",
+    "categoria": "Utilidades",
+    "porta": 3003
+  },
+  {
+    "id": 4,
+    "nome": "Duas Páginas",
+    "arquivo": "duas-paginas.js",
+    "descricao": "Exemplo de navegação entre páginas",
+    "icone": "📄",
+    "categoria": "Estudos",
+    "porta": 3004
+  },
+  {
+    "id": 5,
+    "nome": "Frases",
+    "arquivo": "frases.js",
+    "descricao": "Frases motivacionais aleatórias",
+    "icone": "💪",
+    "categoria": "Entretenimento",
+    "porta": 3005
+  },
+  {
+    "id": 6,
+    "nome": "Lista de Tarefas",
+    "arquivo": "lista-tarefas.js",
+    "descricao": "Organize suas tarefas do dia",
+    "icone": "📝",
+    "categoria": "Produtividade",
+    "porta": 3006
+  },
+  {
+    "id": 7,
+    "nome": "Seu Nome",
+    "arquivo": "seu-nome.js",
+    "descricao": "Saudação personalizada",
+    "icone": "👋",
+    "categoria": "Estudos",
+    "porta": 3007
+  },
+  {
+    "id": 8,
+    "nome": "Jogo da Velha",
+    "arquivo": "jogo-da-velha.js",
+    "descricao": "Jogue contra um amigo",
+    "icone": "🎮",
+    "categoria": "Jogos",
+    "porta": 3008
+  },
+  {
+    "id": 9,
+    "nome": "Jogo da Cobra",
+    "arquivo": "jogo-da-cobra.js",
+    "descricao": "",
+    "icone": "🎮",
+    "categoria": "Jogos",
+    "porta": 3009
+  },
+  {
+    "id": 10,
+    "nome": "WhatsApp",
+    "arquivo": "whatsapp-bot.js",
+    "descricao": "",
+    "icone": "🔢",
+    "categoria": "Utilidades",
+    "porta": 3010
+  },
+  {
+    "id": 11,
+    "nome": "Cartas",
+    "arquivo": "cartas.js",
+    "descricao": "",
+    "icone": "🎮",
+    "categoria": "Jogos",
+    "porta": 3011
+  },
+  {
+    "id": 12,
+    "nome": "Sistema de Arquivos",
+    "arquivo": "sistema-de-arquivos.js",
+    "descricao": "",
+    "icone": "📄",
+    "categoria": "Estudos",
+    "porta": 3012
+  },
+  {
+    "id": 13,
+    "nome": "Monitor de Sistema",
+    "arquivo": "monitordesistema.js",
+    "descricao": "",
+    "icone": "🔢",
+    "categoria": "Utilidades",
+    "porta": 3013
+  },
+  {
+    "id": 14,
+    "nome": "IA Simples",
+    "arquivo": "iasimples.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Inteligência Artificial",
+    "porta": 3014
+  },
+  {
+    "id": 15,
+    "nome": "IA Demonstrativa",
+    "arquivo": "iademonstrativa.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Inteligência Artificial",
+    "porta": 3015
+  },
+  {
+    "id": 16,
+    "nome": "Bloco de Notas",
+    "arquivo": "blocodenotas.js",
+    "descricao": "",
+    "icone": "🖼️",
+    "categoria": "Utilidades",
+    "porta": 3016
+  },
+  {
+    "id": 17,
+    "nome": "Demonstração Assincrono",
+    "arquivo": "assincrono.js",
+    "descricao": "",
+    "icone": "🖼️",
+    "categoria": "Utilidades",
+    "porta": 3017
+  },
+  {
+    "id": 18,
+    "nome": "Hello Word em Python",
+    "arquivo": "chamapython.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Inteligência Artificial",
+    "porta": 3018
+  },
+  {
+    "id": 19,
+    "nome": "Calculador em Python",
+    "arquivo": "calculadoraempython.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Inteligência Artificial",
+    "porta": 3019
+  },
+  {
+    "id": 20,
+    "nome": "WebSocket - Preço Bitcoin",
+    "arquivo": "websocket.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Estudos",
+    "porta": 3020
+  }
+]

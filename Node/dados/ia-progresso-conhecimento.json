@@ -1,0 +1,116 @@
+{
+  "saudacoes": {
+    "palavras": [
+      "oi",
+      "olá",
+      "opa",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "hello"
+    ],
+    "respostas": [
+      "Olá! Como posso ajudar? 😊",
+      "Oi! Tudo bem?",
+      "Olá! Prazer em conversar!"
+    ],
+    "vezesUsado": 3
+  },
+  "despedidas": {
+    "palavras": [
+      "tchau",
+      "adeus",
+      "até logo",
+      "até mais",
+      "bye"
+    ],
+    "respostas": [
+      "Até logo! 👋",
+      "Tchau! Volte sempre!",
+      "Até mais!"
+    ]
+  },
+  "nome": {
+    "palavras": [
+      "qual seu nome",
+      "quem é você",
+      "como se chama",
+      "seu nome"
+    ],
+    "respostas": [
+      "Sou a ProgressIA! Uma IA que evolui com você! 🧠"
+    ],
+    "vezesUsado": 40
+  },
+  "nodejs": {
+    "palavras": [
+      "node",
+      "node.js",
+      "javascript"
+    ],
+    "respostas": [
+      "Node.js é onde eu existo! 🚀",
+      "JavaScript no servidor!"
+    ]
+  },
+  "aprendizado_1778595311408": {
+    "palavras": [
+      "javascript?"
+    ],
+    "respostas": [
+      "estatísticas"
+    ],
+    "aprendido": true,
+    "data": "12/05/2026 11:15:11",
+    "perguntaOriginal": "o que é javascript?",
+    "vezesUsado": 0
+  },
+  "aprendizado_1778595314947": {
+    "palavras": [
+      "javascript?"
+    ],
+    "respostas": [
+      "estatísticas"
+    ],
+    "aprendido": true,
+    "data": "12/05/2026 11:15:14",
+    "perguntaOriginal": "o que é javascript?",
+    "vezesUsado": 0
+  },
+  "aprendizado_1778595320716": {
+    "palavras": [
+      "javascript?"
+    ],
+    "respostas": [
+      "estatísticas"
+    ],
+    "aprendido": true,
+    "data": "12/05/2026 11:15:20",
+    "perguntaOriginal": "o que é javascript?",
+    "vezesUsado": 0
+  },
+  "aprendizado_1778595326105": {
+    "palavras": [
+      "javascript?"
+    ],
+    "respostas": [
+      "estatísticas"
+    ],
+    "aprendido": true,
+    "data": "12/05/2026 11:15:26",
+    "perguntaOriginal": "o que é javascript?",
+    "vezesUsado": 0
+  },
+  "aprendizado_1778595350110": {
+    "palavras": [
+      "javascript?"
+    ],
+    "respostas": [
+      "estatísticas"
+    ],
+    "aprendido": true,
+    "data": "12/05/2026 11:15:50",
+    "perguntaOriginal": "o que é javascript?",
+    "vezesUsado": 0
+  }
+}

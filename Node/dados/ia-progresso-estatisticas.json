@@ -1,0 +1,46 @@
+{
+  "totalAprendizados": 5,
+  "totalPerguntas": 62,
+  "totalAcertos": 5,
+  "nivel": 3,
+  "experiencia": 256,
+  "experienciaProximoNivel": 300,
+  "categorias": {},
+  "historico": [
+    {
+      "tipo": "aprendizado",
+      "pergunta": "o que é javascript?",
+      "resposta": "estatísticas",
+      "data": "12/05/2026 11:15:50",
+      "ganhouExp": 30
+    },
+    {
+      "tipo": "aprendizado",
+      "pergunta": "o que é javascript?",
+      "resposta": "estatísticas",
+      "data": "12/05/2026 11:15:26",
+      "ganhouExp": 30
+    },
+    {
+      "tipo": "aprendizado",
+      "pergunta": "o que é javascript?",
+      "resposta": "estatísticas",
+      "data": "12/05/2026 11:15:20",
+      "ganhouExp": 30
+    },
+    {
+      "tipo": "aprendizado",
+      "pergunta": "o que é javascript?",
+      "resposta": "estatísticas",
+      "data": "12/05/2026 11:15:14",
+      "ganhouExp": 30
+    },
+    {
+      "tipo": "aprendizado",
+      "pergunta": "o que é javascript?",
+      "resposta": "estatísticas",
+      "data": "12/05/2026 11:15:11",
+      "ganhouExp": 30
+    }
+  ]
+}

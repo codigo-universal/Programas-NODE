@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1778671267206,
+    "titulo": "Teste",
+    "conteudo": "testando a nota",
+    "categoria": "Pessoal",
+    "favorito": false,
+    "data": "13/05/2026 08:21"
+  },
+  {
+    "id": 1778671283309,
+    "titulo": "teste2",
+    "conteudo": "testando a nota",
+    "categoria": "Trabalho",
+    "favorito": true,
+    "data": "13/05/2026 08:21"
+  },
+  {
+    "id": 1778671325050,
+    "titulo": "abc",
+    "conteudo": "abccccccccccccccccc",
+    "categoria": "Estudos",
+    "favorito": false,
+    "data": "13/05/2026 08:22"
+  }
+]
