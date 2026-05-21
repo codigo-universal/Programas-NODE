@@ -1,0 +1,7 @@
+O Node é versão v13.14.0.
+
+Não inseri a pasta node_modules aqui no projeto porque ela é muito grande
+
+Todos os sistemas aqui eu fiz em um servidor local
+
+Então tem que baixar a pasta para funcionar, obrigado
