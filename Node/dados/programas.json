@@ -178,5 +178,41 @@
     "icone": "📦",
     "categoria": "Estudos",
     "porta": 3020
+  },
+  {
+    "id": 21,
+    "nome": "Analisador de Sentimentos com Python",
+    "arquivo": "analisadordesentimentos.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Inteligência Artificial",
+    "porta": 3021
+  },
+  {
+    "id": 22,
+    "nome": "Mostra Diversas Funcionalidades do Node",
+    "arquivo": "apigateway.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Estudos",
+    "porta": 3022
+  },
+  {
+    "id": 23,
+    "nome": "Gerador de Senha NODE + Python",
+    "arquivo": "geradordesenha.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Inteligência Artificial",
+    "porta": 3023
+  },
+  {
+    "id": 24,
+    "nome": "Jogo de Adivinhação NODE + Python",
+    "arquivo": "jogoadvinhacao.js",
+    "descricao": "",
+    "icone": "📦",
+    "categoria": "Inteligência Artificial",
+    "porta": 3024
   }
 ]

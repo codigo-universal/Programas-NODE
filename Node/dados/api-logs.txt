@@ -1,0 +1,13 @@
+[19/05/2026 11:23:31] 🚀 API Gateway rodando em http://localhost:3022
+[19/05/2026 11:23:33] 📡 Buscando preço do Bitcoin...
+[19/05/2026 11:23:33] GET /favicon.ico - 404 - 20ms
+[19/05/2026 11:23:38] 💾 Cache HIT: /bitcoin
+[19/05/2026 11:23:44] 💾 Cache HIT: /bitcoin
+[19/05/2026 11:23:49] 💾 Cache HIT: /bitcoin
+[19/05/2026 11:23:54] 💾 Cache HIT: /bitcoin
+[19/05/2026 11:23:59] 💾 Cache HIT: /bitcoin
+[19/05/2026 11:24:04] 📡 Buscando preço do Bitcoin...
+[19/05/2026 11:24:09] ⚠️ Rate limit excedido para IP: ::1
+[19/05/2026 11:24:09] ⚠️ Rate limit excedido para IP: ::1
+[19/05/2026 11:24:09] ⚠️ Rate limit excedido para IP: ::1
+[19/05/2026 11:24:14] ⚠️ Rate limit excedido para IP: ::1
